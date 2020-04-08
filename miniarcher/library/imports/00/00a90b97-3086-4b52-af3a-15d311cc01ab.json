@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "other_red_box",
+    "texture": "481fb4b5-5fdc-4fe9-afd3-29818b945c40",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      828,
+      1792
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      828,
+      1792
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

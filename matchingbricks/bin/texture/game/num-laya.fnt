@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<font>
+	<info face="E:\Rain\补美术\消砖块\png\文字
+um-laya" size="78" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="2" padding="0,0,0,0" spacing="1,1" outline="0" />
+	<common lineHeight="78" scaleW="128" scaleH="512" pages="1" packed="0" alphaChnl="0" redChnl="3" greenChnl="3" blueChnl="3"/>
+	<pages>
+		<page id="0" file="E:\Rain\补美术\消砖块\png\文字
+um-laya.png" />
+	</pages>
+	<chars count="13">
+		<char id="43" x="0" y="0" width="63" height="69" xoffset="0" yoffset="8" xadvance="68" /><!-- + -->
+		<char id="48" x="0" y="143" width="57" height="73" xoffset="0" yoffset="6" xadvance="62" /><!-- 0 -->
+		<char id="49" x="55" y="290" width="49" height="73" xoffset="0" yoffset="6" xadvance="54" /><!-- 1 -->
+		<char id="50" x="0" y="217" width="54" height="70" xoffset="0" yoffset="7" xadvance="59" /><!-- 2 -->
+		<char id="51" x="58" y="70" width="49" height="73" xoffset="0" yoffset="5" xadvance="54" /><!-- 3 -->
+		<char id="52" x="0" y="70" width="57" height="72" xoffset="0" yoffset="6" xadvance="62" /><!-- 4 -->
+		<char id="53" x="55" y="217" width="50" height="72" xoffset="0" yoffset="6" xadvance="55" /><!-- 5 -->
+		<char id="54" x="0" y="433" width="51" height="72" xoffset="0" yoffset="6" xadvance="56" /><!-- 6 -->
+		<char id="55" x="0" y="362" width="53" height="70" xoffset="0" yoffset="7" xadvance="58" /><!-- 7 -->
+		<char id="56" x="0" y="288" width="54" height="73" xoffset="0" yoffset="6" xadvance="59" /><!-- 8 -->
+		<char id="57" x="52" y="433" width="51" height="72" xoffset="0" yoffset="6" xadvance="56" /><!-- 9 -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="26" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="208" /><!-- 	 -->
+	</chars>
+</font>

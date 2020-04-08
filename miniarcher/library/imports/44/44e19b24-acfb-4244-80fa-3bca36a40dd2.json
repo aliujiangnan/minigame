@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_checkpoint-export",
+    "texture": "caf6ef77-0aa5-47c3-bc17-0d0849b3380f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      121
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      112,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

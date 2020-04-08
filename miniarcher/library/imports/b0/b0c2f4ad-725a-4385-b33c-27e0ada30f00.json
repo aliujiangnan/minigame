@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_p4",
+    "texture": "a244dd8d-b8dc-4ed6-a325-1d6bfc2602fd",
+    "atlas": "eb1a8440-c38a-4ec1-9adc-45a00f77f977",
+    "rect": [
+      221,
+      798,
+      61,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      144
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

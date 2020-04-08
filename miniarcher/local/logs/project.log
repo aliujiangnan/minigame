@@ -1,0 +1,69 @@
+2019-11-28T09:31:48.091Z - normal: Load ~/.CocosCreator/settings.json
+2019-11-28T09:31:48.136Z - normal: Initializing Asset Database
+2019-11-28T09:31:48.138Z - normal: checking language setting...
+2019-11-28T09:31:48.139Z - normal: Language: zh
+2019-11-28T09:31:48.726Z - success: preview server running at http://localhost:7456
+2019-11-28T09:31:48.750Z - success: protocol editor-framework registered
+2019-11-28T09:31:48.751Z - success: protocol app registered
+2019-11-28T09:31:48.751Z - success: protocol theme registered
+2019-11-28T09:31:48.751Z - success: protocol packages registered
+2019-11-28T09:31:48.751Z - success: protocol uuid registerred
+2019-11-28T09:31:48.751Z - success: protocol db registerred
+2019-11-28T09:31:48.751Z - success: protocol thumbnail registerred
+2019-11-28T09:31:48.751Z - success: protocol unpack registerred
+2019-11-28T09:31:48.751Z - success: protocol disable-commonjs registerred
+2019-11-28T09:31:48.950Z - normal: connected!
+2019-11-28T09:31:48.951Z - normal: Check project /Users/letu001/Desktop/test/h5game/archer
+2019-11-28T09:31:48.953Z - normal: Initializing project /Users/letu001/Desktop/test/h5game/archer
+2019-11-28T09:31:49.259Z - normal: Initializing Cocos2d
+2019-11-28T09:31:49.868Z - normal: Initializing engine extends
+2019-11-28T09:31:49.923Z - success: alipay-adapter loaded
+2019-11-28T09:31:49.932Z - success: asset-db-debugger loaded
+2019-11-28T09:31:49.932Z - success: baidu-adapter loaded
+2019-11-28T09:31:49.933Z - success: color-picker loaded
+2019-11-28T09:31:50.040Z - success: fb-audience-network loaded
+2019-11-28T09:31:50.084Z - success: fb-live-stream loaded
+2019-11-28T09:31:50.086Z - success: google-play-instant loaded
+2019-11-28T09:31:50.091Z - success: huawei-runtime loaded
+2019-11-28T09:31:50.288Z - success: cpk-publish loaded
+2019-11-28T09:31:50.289Z - success: jsb-adapter loaded
+2019-11-28T09:31:50.294Z - success: oppo-runtime loaded
+2019-11-28T09:31:50.304Z - success: package-manager loaded
+2019-11-28T09:31:50.415Z - success: qqplay-adapter loaded
+2019-11-28T09:31:50.417Z - success: runtime-dev-tools loaded
+2019-11-28T09:31:50.424Z - success: sdkbox loaded
+2019-11-28T09:31:50.431Z - success: tester loaded
+2019-11-28T09:31:50.437Z - success: ui-kit-preview-extra loaded
+2019-11-28T09:31:50.443Z - success: ui-kit-preview loaded
+2019-11-28T09:31:50.449Z - success: ui-kit loaded
+2019-11-28T09:31:50.454Z - success: vivo-runtime loaded
+2019-11-28T09:31:50.454Z - success: weapp-adapter loaded
+2019-11-28T09:31:50.455Z - success: xiaomi-adapter loaded
+2019-11-28T09:31:50.457Z - success: alipay-minigame loaded
+2019-11-28T09:31:50.500Z - success: assets loaded
+2019-11-28T09:31:50.506Z - success: builder loaded
+2019-11-28T09:31:50.732Z - success: cocos-services loaded
+2019-11-28T09:31:50.741Z - success: console loaded
+2019-11-28T09:31:50.765Z - success: fb-instant-games loaded
+2019-11-28T09:31:50.773Z - success: game-window loaded
+2019-11-28T09:31:50.773Z - success: google-instant-games loaded
+2019-11-28T09:31:50.781Z - success: hierarchy loaded
+2019-11-28T09:31:50.787Z - success: inspector loaded
+2019-11-28T09:31:50.788Z - success: keystore loaded
+2019-11-28T09:31:50.796Z - success: node-library loaded
+2019-11-28T09:31:50.797Z - success: package-asset loaded
+2019-11-28T09:31:50.798Z - success: preferences loaded
+2019-11-28T09:31:50.803Z - success: project-exporter loaded
+2019-11-28T09:31:50.810Z - success: project-importer loaded
+2019-11-28T09:31:50.816Z - success: project-settings loaded
+2019-11-28T09:31:50.825Z - success: scene loaded
+2019-11-28T09:31:50.826Z - success: simulator-debugger loaded
+2019-11-28T09:31:50.827Z - success: sprite-editor loaded
+2019-11-28T09:31:50.833Z - success: store loaded
+2019-11-28T09:31:50.843Z - success: timeline loaded
+2019-11-28T09:31:50.846Z - success: xiaomi-runtime loaded
+2019-11-28T09:31:53.540Z - info: Cocos Services load base data!
+2019-11-28T09:31:55.360Z - normal: Loading packages
+2019-11-28T09:31:55.363Z - normal: Watching packages
+2019-11-28T09:31:55.434Z - normal: Run Application
+2019-11-28T10:08:59.093Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/script/utils/test.js.meta

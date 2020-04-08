@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_scene.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg": {
+      "__uuid__": "20fd6aa9-ece7-4393-a806-af4b6b6bc240"
+    },
+    "bg_water": {
+      "__uuid__": "510e4aad-f242-418c-a3f6-c23dbfcf0453"
+    },
+    "cloud1": {
+      "__uuid__": "6ca39994-82ff-4621-95da-765300760aa4"
+    },
+    "cloud2": {
+      "__uuid__": "3376cbae-2d7c-4065-9146-d3c46deb8eb5"
+    },
+    "cloud3": {
+      "__uuid__": "108fcfd7-b3e2-41a1-a690-11226f38296c"
+    },
+    "lotus1": {
+      "__uuid__": "f1d95c62-864e-44b9-a5d1-0232273987bb"
+    },
+    "lotus2": {
+      "__uuid__": "f7de3a96-2348-4253-9b77-0835fc67b75b"
+    },
+    "lotus3": {
+      "__uuid__": "cdc116b7-2327-43bd-b237-c722bb828f95"
+    },
+    "lotus4": {
+      "__uuid__": "d73a1efb-9d19-4a9a-ba69-a9151779b1b3"
+    },
+    "lotus_leaf1": {
+      "__uuid__": "8596b6c3-8ca4-44f9-b33c-99446fe929e3"
+    },
+    "lotus_leaf2": {
+      "__uuid__": "9e1facf9-db2c-49cc-a765-1abc4566a77a"
+    },
+    "road1": {
+      "__uuid__": "433234d0-949c-4e6a-84df-91b0358b1e19"
+    },
+    "road2": {
+      "__uuid__": "843c8e00-f6fc-40b4-8cdb-803b00ce2c18"
+    },
+    "stone": {
+      "__uuid__": "ff1339ce-4de2-47c0-b1be-dfe29147f63a"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skin_p2",
+    "texture": "a244dd8d-b8dc-4ed6-a325-1d6bfc2602fd",
+    "atlas": "eb1a8440-c38a-4ec1-9adc-45a00f77f977",
+    "rect": [
+      2,
+      134,
+      130,
+      252
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      252
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

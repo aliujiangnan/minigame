@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jian",
+    "texture": "57e4424b-5e83-48d6-8a28-2a4e979b4a6c",
+    "atlas": "35e3a8a8-0f65-4ef2-bdea-24fdf0c2cbc1",
+    "rect": [
+      302,
+      582,
+      272,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      272,
+      66
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

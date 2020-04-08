@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_txt_arrow-export",
+    "texture": "fb25d850-698e-43ec-9bdd-a17d7cc607ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      80
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      76,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

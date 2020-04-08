@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<font>
+	<info face="E:\Rain\Q3\爬杆	-laya" size="46" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="2" padding="0,0,0,0" spacing="1,1" outline="0" />
+	<common lineHeight="46" scaleW="128" scaleH="128" pages="1" packed="0" alphaChnl="0" redChnl="3" greenChnl="3" blueChnl="3"/>
+	<pages>
+		<page id="0" file="E:\Rain\Q3\爬杆	-laya.png" />
+	</pages>
+	<chars count="12">
+		<char id="48" x="0" y="0" width="34" height="37" xoffset="0" yoffset="7" xadvance="38" /><!-- 0 -->
+		<char id="49" x="96" y="0" width="17" height="39" xoffset="0" yoffset="6" xadvance="21" /><!-- 1 -->
+		<char id="50" x="0" y="38" width="32" height="37" xoffset="0" yoffset="7" xadvance="36" /><!-- 2 -->
+		<char id="51" x="64" y="79" width="30" height="39" xoffset="0" yoffset="6" xadvance="34" /><!-- 3 -->
+		<char id="52" x="0" y="76" width="32" height="39" xoffset="0" yoffset="6" xadvance="36" /><!-- 4 -->
+		<char id="53" x="33" y="38" width="31" height="40" xoffset="0" yoffset="6" xadvance="35" /><!-- 5 -->
+		<char id="54" x="65" y="0" width="30" height="39" xoffset="0" yoffset="6" xadvance="34" /><!-- 6 -->
+		<char id="55" x="33" y="79" width="30" height="40" xoffset="0" yoffset="6" xadvance="34" /><!-- 7 -->
+		<char id="56" x="95" y="81" width="29" height="40" xoffset="0" yoffset="6" xadvance="33" /><!-- 8 -->
+		<char id="57" x="95" y="40" width="30" height="40" xoffset="0" yoffset="6" xadvance="34" /><!-- 9 -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="264" /><!-- 	 -->
+	</chars>
+</font>

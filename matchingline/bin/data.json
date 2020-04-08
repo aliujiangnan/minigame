@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "黄蓝棋",
+      "price": 0,
+      "skin1": "gamescreen/skin/pawn_1_1.png",
+      "skin2": "gamescreen/skin/pawn_1_2.png"
+    },
+    {
+      "id": 2,
+      "name": "爱心",
+      "price": 2000,
+      "skin1": "gamescreen/skin/pawn_2_1.png",
+      "skin2": "gamescreen/skin/pawn_2_2.png"
+    },
+    {
+      "id": 3,
+      "name": "盾牌",
+      "price": 2000,
+      "skin1": "gamescreen/skin/pawn_3_1.png",
+      "skin2": "gamescreen/skin/pawn_3_2.png"
+    },
+    {
+      "id": 4,
+      "name": "宝石",
+      "price": 3000,
+      "skin1": "gamescreen/skin/pawn_4_1.png",
+      "skin2": "gamescreen/skin/pawn_4_2.png"
+    },
+    {
+      "id": 5,
+      "name": "小猫",
+      "price": 3000,
+      "skin1": "gamescreen/skin/pawn_5_1.png",
+      "skin2": "gamescreen/skin/pawn_5_2.png"
+    },
+    {
+      "id": 6,
+      "name": "金币",
+      "price": 4500,
+      "skin1": "gamescreen/skin/pawn_6_1.png",
+      "skin2": "gamescreen/skin/pawn_6_2.png"
+    },
+    {
+      "id": 7,
+      "name": "饮料",
+      "price": 4500,
+      "skin1": "gamescreen/skin/pawn_7_1.png",
+      "skin2": "gamescreen/skin/pawn_7_2.png"
+    },
+    {
+      "id": 8,
+      "name": "小熊",
+      "price": 6500,
+      "skin1": "gamescreen/skin/pawn_8_1.png",
+      "skin2": "gamescreen/skin/pawn_8_2.png"
+    },
+    {
+      "id": 9,
+      "name": "太阳月亮",
+      "price": 6500,
+      "skin1": "gamescreen/skin/pawn_9_1.png",
+      "skin2": "gamescreen/skin/pawn_9_2.png"
+    },
+    {
+      "id": 10,
+      "name": "天使恶魔",
+      "price": 9000,
+      "skin1": "gamescreen/skin/pawn_10_1.png",
+      "skin2": "gamescreen/skin/pawn_10_2.png"
+    },
+    {
+      "id": 11,
+      "name": "bobomax",
+      "price": 9000,
+      "skin1": "gamescreen/skin/pawn_11_1.png",
+      "skin2": "gamescreen/skin/pawn_11_2.png"
+    }
+  ]
+}
